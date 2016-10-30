@@ -1,0 +1,10 @@
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\bin\Debug\Animus.exe.config
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\bin\Debug\Animus.exe
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\bin\Debug\Animus.pdb
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.csprojResolveAssemblyReference.cache
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.Properties.Resources.resources
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.csproj.GenerateResource.Cache
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.exe
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.pdb
+c:\users\anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.Form1.resources
+C:\Users\Anki\documents\visual studio 2012\Projects\Animus\Animus\obj\Debug\Animus.textform.resources

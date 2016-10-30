@@ -1,0 +1,10 @@
+firefox internet
+notepad
+chrome
+mspaint paint
+cmd command
+shutdown poweroff
+hibernate
+sleep
+sndvol volume
+dxdiag specs specifications graphics information
